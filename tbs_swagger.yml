@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: 3blades API
   version: "1.0"
-host: api.3blades.ai
+host: dev-api.3blades.ai
 schemes:
   - https
 consumes:
